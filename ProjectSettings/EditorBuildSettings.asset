@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Before movement.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/teleportation.unity
+    guid: 40932566811864abcbbdc6253119acb6
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 00f099a5612dd42df8422ae21b75788d,
       type: 2}
